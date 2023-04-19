@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Becoming a Software Developer
 - 🌱 I’m currently learning ... Git/Bolean
 - 💞️ I’m looking to collaborate on ... Code
-- 📫 How to reach me ... email
+- 📫 How to reach me ... harris.jackson1@yahoo.com
 
 <!---
 Jaxnbh47/Jaxnbh47 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
